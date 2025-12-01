@@ -14,7 +14,7 @@ I bridge the gap between **Operational Risk** and **Quantitative Analytics**. My
 | **Domain** | **Tools & Skills** |
 | :--- | :--- |
 | **Risk Management** | Credit Risk (PD/LGD/EAD), NPL Analysis, Concentration Risk, Market Risk (VaR, Stress Testing) |
-| **Data Analysis** | Statistical & Predictive Modelling (Logistic Regression, Hypothesis Testing) | EDA | Data Cleaning |
+| **Data Analysis** | Statistical & Predictive Modelling (Logistic Regression, Hypothesis Testing), EDA, Data Cleaning |
 | **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (Joins, Aggregations, Subqueries) |
 | **Tools** | Power BI (DAX, Data Modelling), Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP) | Jupyter Notebook |
 
